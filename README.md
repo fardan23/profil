@@ -1,11 +1,10 @@
 # Hi there, I'm Fardan - aka [Muhamad Fardan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- ✍️ I’m currently studying at [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)
+- 🌱 I’m currently learning Html and Css
+- ❤️ My girlfriend : Kim Jisoo As Blackpink
+- 💫 My top 5 biases : Jisoo, Haerin, Leeseo, Eunchae and Kyujin
+- 👾 My fav song: Yang terbaik bagimu
 
 ## Education:
 
