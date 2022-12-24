@@ -12,11 +12,3 @@
 #### 1. [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id) | Rekayasa Perangkat Lunak | Bogor `2022-2025`
 #### 2. [SMP Sejahtera 2](https://instagram.com/smpsejahtera2cileungsi_?igshid=YmMyMTA2M2Y=) | Pelajar | Bogor `2019-2022`
 #### 3. [SDN Cibeureum](http://sdncibeureumcileungsi.mysch.id/) | Pelajar | Bogor `2013-2019`
-
----
-### Connect with me:
-
-<img src : "instagram.jpg"(https://instagram.com/frrdann_) ><img/>
-[![website](./img/instagram-dark.svg)](https://instagram.com/frrdann_#gh-dark-mode-only)
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
