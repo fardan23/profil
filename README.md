@@ -16,7 +16,7 @@
 ---
 ### Connect with me:
 
-<img src : "instagram.jpg"(https://instagram.com/frrdann_)
+<img src : "instagram.jpg"(https://instagram.com/frrdann_) ><img/>
 [![website](./img/instagram-dark.svg)](https://instagram.com/frrdann_#gh-dark-mode-only)
 
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
